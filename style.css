@@ -38,6 +38,8 @@ border-radius: 50%;
     font-size: x-large;
     text-align: center;
     border-radius: 50px;
+    margin-left: 333.33px;
+    width: 53%;
 }
 .center{
     text-align: center;
@@ -47,3 +49,7 @@ border-radius: 50%;
 {
     margin-left: 40px;
 }
+ .mid {
+    text-align: left;
+    margin-left: 368px;
+ }
